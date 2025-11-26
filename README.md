@@ -62,7 +62,7 @@
        style="border:2px solid #0078D4; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
   <br><em>MySQL Download Page — Select DEB Bundle for Ubuntu 24.04 AMD64</em>
 </p>
------------------------------------------------------------------------------------------------------------------------------------------------
+
 6. **Verify download**:
    ```bash
    ls
